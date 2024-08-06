@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Justin Barnhart - Roof Solutions Advisor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        header {
+            background-color: #8c1f33;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header img {
+            width: 150px;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="2024logo.png" alt="Tadlock Roofing Logo">
+        <h1>Justin Barnhart - Roof Solutions Advisor</h1>
+        <p>When Trust Counts</p>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+        <a href="#reviews">Reviews</a>
+        <a href="#company">About My Company</a>
+        <a href="#products">About Our Products</a>
+    </nav>
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>I've lived in Florida all my life, raised in the Tampa Bay area, and lived in the Pensacola area for the past fifteen years. I served in our military as a hospital corpsman for our United States Navy, passionately serving our aviation service men in women from 2009-2013. I have a passion for wrestling, my high school sport, which I have shared with my communities in Pace and Milton as a wrestling coach. I am a happy husband to my wife of seven years, Brandi, and father to my two children, Grayson (7) and Jonni (4). In all that I am, I strive to be a Christian first and reflect Christ in my actions and decisions. My goal is to serve my community honorably and help them protect their homes. When storms, insurance companies, and the everyday struggles of life present barriers to protecting your home, I hope to be your solution.</p>
+        </section>
+        <section id="projects">
+            <h2>Projects</h2>
+            <p>Details about recent and notable projects will go here.</p>
+        </section>
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: justin@example.com</p>
+            <p>Phone: (123) 456-7890</p>
+        </section>
+        <section id="reviews">
+            <h2>Reviews</h2>
+            <p>Customer reviews and testimonials will be displayed here.</p>
+        </section>
+        <section id="company">
+            <h2>About My Company</h2>
+            <p>Information about Tadlock Roofing will go here.</p>
+        </section>
+        <section id="products">
+            <h2>About Our Products</h2>
+            <p>Details about the products offered by Tadlock Roofing will be provided here.</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Justin Barnhart. All rights reserved.</p>
+    </footer>
+</body>
+</html>
